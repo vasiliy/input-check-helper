@@ -26,6 +26,7 @@
             return _fill;
         }
         
+        
         , this.checkFields = function(_finputs) {
             var _fill = true;
             var _focusnotset = true;
